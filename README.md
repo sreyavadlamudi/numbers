@@ -1,7 +1,7 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
+1. Name: Sreya Vadlamudi
+2. Student ID: 2371434
+3. Email:vadlamudi@chapman.edu 
 4. Class:CPSC 298
 5. Assignment: numbers 
 
