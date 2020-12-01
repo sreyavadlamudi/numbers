@@ -6,7 +6,7 @@ read n
 N=1
 while [ "$N" -le "$n" ]
 do
-	echo $N
+	echo -n $N
 	if [ $((N%2)) -eq 0 ]
 	then
 		echo " Even "
