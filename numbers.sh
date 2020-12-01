@@ -2,7 +2,7 @@
 # numbers.sh
 # Sreya Vadlamudi
 echo -n "Enter a positive integer: "
-read n
+read -r n
 N=1
 while [ "$N" -le "$n" ]
 do
@@ -13,5 +13,5 @@ do
 	else
 		echo " Odd "
 	fi
-	N=$(($N+1))
+	N=$((N+1))
 done
